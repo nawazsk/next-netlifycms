@@ -1,0 +1,1 @@
+A blog created using next js and netlify cms
